@@ -1,0 +1,3 @@
+[submodule "modules/agents/aiFlightPlanning"]
+	path = modules/agents/aiFlightPlanning
+	url = git@github.com:vovaBor/submodules-agent-1.git
